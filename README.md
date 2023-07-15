@@ -1,0 +1,2 @@
+# Institute-Management-System
+This is a software called the Institute Management System. It has been created using C# and .NET. This application allows you to do several things. You can admit new students, search for students using their ID, and view information about all the students. If needed, you can also remove a student from the system. Additionally, teachers can mark attendance for students using this software, making it easier to keep track of who is present.
